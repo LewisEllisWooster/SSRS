@@ -18,11 +18,14 @@ LookUpSet - Group By: http://stackoverflow.com/questions/23059364/lookupset-grou
 *Dictionaries: http://www.snb-vba.eu/VBA_Dictionary_en.html*<br />
 *Data Dictionary in VBA - Complete Syntax Documentation: https://sites.google.com/site/beyondexcel/project-updates/datadictionaryinvba-completesyntaxdocumentation*<br />
 *Does VBA have Dictionary Structure?: http://stackoverflow.com/questions/915317/does-vba-have-dictionary-structure*
+*Dictionary(Of TKey, TValue).ContainsKey Method (TKey): https://msdn.microsoft.com/en-us/library/kw5aaea4(v=vs.110).aspx*<br />
+*Modify value by key: http://stackoverflow.com/questions/5709444/modify-value-by-key*<br />
 
 ######Breakthrough Websites Used:
 *SSRS 2008 R2 custom code clear dictionary in render lifecycle event: http://stackoverflow.com/questions/18927516/ssrs-2008-r2-custom-code-clear-dictionary-in-render-lifecycle-event?rq=1*<br />
 *SSRS custom code and variables life: http://stackoverflow.com/questions/16564241/ssrs-custom-code-and-variables-life*<br />
 *System.Collections.Generic.Dictionary<TKey,TValue> Class: https://www.gnu.org/projects/dotgnu/pnetlib-doc/System/Collections/Generic/DictionaryTKeyTValue.html#Dictionary%3CTKey%2CTValue%3E.System.Collections.Generic.IDictionary%3CTKey%2CTValue%3E.Values%20Property*<br />
+*System.Collections.Generic.Dictionary<TKey,TValue> Class: https://developer.xamarin.com/api/type/System.Collections.Generic.Dictionary%3CTKey,TValue%3E/*<br />
 <br />
 
 ```vbnet
